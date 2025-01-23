@@ -19,7 +19,7 @@ html,body{
         border: none;
         border-radius: 5px;
         cursor: pointer;
-        
+
 }
 a{
     text-decoration: none;
@@ -323,22 +323,22 @@ h1, h2, h3, h4, h5, h6{
                 border-radius: 5px;
                 transition: background-img 0.9s ease;
             }
-            #haircut-card:hover{
+            #haircut-card{
                 background-image: url(haircut-background.jpg);
                 background-size: cover;
                 background-position: center;
             }
-            #trimming-card:hover{
+            #trimming-card{
                 background-image: url(trimming-background.jpg);
                 background-size: cover;
                 background-position: center;
             }
-            #styling-card:hover{
+            #styling-card{
                 background-image: url(styling-background.jpg);
                 background-size: cover;
                 background-position: center;
             }
-            #shaving-card:hover{
+            #shaving-card{
                 background-image: url(shaving\ background.jpg);
                 background-size: cover;
                 background-position: center;
@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6{
                 }
                     .service-titles{
                         font-size: 25px;
-                        color: black;
+                        color: white;
                     }
 
 
