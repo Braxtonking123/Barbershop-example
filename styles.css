@@ -131,6 +131,7 @@ h1, h2, h3, h4, h5, h6{
                 justify-content: center;
                 cursor: pointer;
                 transition: 1.1s;
+                border-radius: 5px;
             }
                 .nav-buttons:hover{
                     transform: scale(1.1);
